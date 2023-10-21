@@ -1,0 +1,21 @@
+h1 {
+    color: royalblue;
+    font-size: 60px;
+}
+
+.paragrafo {
+    color:maroon;
+    background-color: aqua;
+}
+
+#segundo-titulo {
+    color: blueviolet;
+}
+
+p {
+    color: mediumslateblue;
+}
+
+.box .paragrafo-box {
+    color: hotpink;
+}

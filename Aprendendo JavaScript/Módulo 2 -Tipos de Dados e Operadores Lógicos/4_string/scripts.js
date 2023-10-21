@@ -1,0 +1,11 @@
+console.log("Oi, eu sou o Cruz")
+console.log('Eu vim ver o macaco.')
+console.log(`meow`)
+console.log("Infinity")
+console.log(Infinity)
+
+console.log(typeof "Oi, eu sou o Cruz")
+console.log(typeof 'Eu vim ver o macaco.')
+console.log(typeof `meow`)
+console.log(typeof "Infinity")
+console.log(typeof Infinity)
